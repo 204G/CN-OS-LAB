@@ -1,10 +1,16 @@
+/* Name Of the Candidate: M.Mounika
+   Roll No: 204G1A0561
+   Title of the Experiment: CPU Scheduling Using FCFS Algorithm
+   Date of Creation: 06-09-2022
+   Date of Execution: 06-09-2022
+*/
 #include<stdio.h>
-#include<conio.h>
+#include<stdlib.h>
 main()
 {
 int bt[20], wt[20], tat[20], i, n;
 float wtavg, tatavg;
-clrscr();
+system("cls");
 printf("\nEnter the number of processes -- ");
 scanf("%d", &n);
 for(i=0;i<n;i++)
