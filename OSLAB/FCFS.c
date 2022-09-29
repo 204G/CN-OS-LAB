@@ -5,12 +5,12 @@
    Date of Execution: 06-09-2022
 */
 #include<stdio.h>
-#include<stdlib.h>
+#include<conio.h>
 main()
 {
 int bt[20], wt[20], tat[20], i, n;
 float wtavg, tatavg;
-system("cls");
+clrscr();
 printf("\nEnter the number of processes -- ");
 scanf("%d", &n);
 for(i=0;i<n;i++)
