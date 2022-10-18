@@ -1,0 +1,10 @@
+Enter the number of processes --- 2
+Enter the Burst Time &amp; Priority of Process 0 --- 5
+6
+Enter the Burst Time &amp; Priority of Process 1 --- 8
+9
+
+PROCESS		PRIORITY	BURST TIME	WAITING TIME	TURNAROUNDTIME
+0 		 6 		 5 		 0 		 5 
+1 		 9 		 8 		 5 		 13 
+Average Waiting Time is --- 2.500000
