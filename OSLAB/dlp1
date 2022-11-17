@@ -1,0 +1,14 @@
+Enter no of jobs: 4
+Enter name and time: 1
+2
+Enter name and time: 3
+4
+Enter name and time: 1
+1
+Enter name and time: 2
+1
+Enter the available resources:1
+No safe sequence
+No safe sequence
+Safe sequence is:1 1
+2 1
