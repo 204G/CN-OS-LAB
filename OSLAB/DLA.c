@@ -1,3 +1,9 @@
+/* Name Of the Candidate: M.Mounika
+   Roll No: 204G1A0561
+   Title of the Experiment: deadlock avoidance algorithm
+   Date of Creation: 15-11-2022
+   Date of Execution: 15-11-2022
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
