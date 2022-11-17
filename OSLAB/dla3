@@ -1,0 +1,22 @@
+<pre>Enter the no. of processes and resources:3
+0
+Enter the claim matrix:
+Enter the allocation matrix:
+Resource vector:All the resources can be allocated to Process 1
+
+Available resources are:
+
+Process 1 executed?:y 
+All the resources can be allocated to Process 2
+
+Available resources are:
+
+Process 2 executed?:y 
+All the resources can be allocated to Process 3
+
+Available resources are:
+
+Process 3 executed?:y 
+
+ System is in safe mode
+ The given state is safe state</pre>
