@@ -1,3 +1,9 @@
+/* Name Of the Candidate: M.Mounika
+   Roll No: 204G1A0561
+   Title of the Experiment: Dining philosopher problem
+   Date of Creation: 29-11-2022
+   Date of Execution: 29-11-2022
+*/
 int tph, philname[20], status[20], howhung, hu[20], cho;
 main()
 
