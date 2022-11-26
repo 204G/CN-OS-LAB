@@ -1,3 +1,9 @@
+/* Name Of the Candidate: M.Mounika
+   Roll No: 204G1A0561
+   Title of the Experiment: Indexed algorithm
+   Date of Creation: 29-11-2022
+   Date of Execution: 29-11-2022
+*/
 #include<stdio.h>
 int f[50],i,k,j,inde[50],n,c,count=0,p;
 main()
