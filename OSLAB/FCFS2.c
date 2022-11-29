@@ -5,13 +5,11 @@
    Date of Execution: 29-11-2022
 */
 #include<stdio.h>
-main()
+int main()
 {
 int t[20], n, I, j, tohm[20], tot=0; float avhm;
-clrscr();
 printf(“enter the no.of tracks”);
 scanf(“%d”,&n);
-
 printf(“enter the tracks to be traversed”);
 for(i=2;i<n+2;i++)
 scanf(“%d”,&t*i+);
@@ -28,5 +26,5 @@ printf(“Tracks traversed\tDifference between tracks\n”);
 for(i=1;i<n+1;i++)
 printf(“%d\t\t\t%d\n”,t*i+,tohm*i+);
 printf("\nAverage header movements:%f",avhm);
-getch();
+return 0;
 }
