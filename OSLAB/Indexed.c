@@ -44,6 +44,5 @@ scanf("%d",&c);
 if(c==1)
 goto x;
 else
-exit;
 return 0;
 }
