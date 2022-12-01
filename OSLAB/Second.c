@@ -1,13 +1,13 @@
 #include<stdio.h>
-struct
 {
 char dname[10],fname[10][10];
 int fcnt;
-}dir[10];
-void main()
+}
+dir[10];
+int main()
 {
-int i,ch,dcnt,k; char
-f[30], d[30]; clrscr();
+int i,ch,dcnt,k; 
+char f[30], d[30]; 
 dcnt=0;
 while(1)
 {
@@ -92,8 +92,7 @@ printf("\t%s",dir[i].fname[k]);
 }
 }
 break;
-default:exit(0);
 }
 }
-getch();
+return 0;
 }

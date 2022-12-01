@@ -1,9 +1,8 @@
 #include<stdio.h>
-main()
+int main()
 
 {
 int t[20], d[20], h, i, j, n, temp, k, atr[20], tot, p, sum=0;
-clrscr();
 printf("enter the no of tracks to be traveresed");
 scanf("%d'",&n);
 printf("enter the position of head");
@@ -44,4 +43,5 @@ d[j]=atr[j+1]-atr[j];
 sum+=d[j];
 }
 printf("\nAverage header movements:%f",(float)sum/n);
-getch();}
+return 0;
+}
